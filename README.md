@@ -14,7 +14,7 @@ Este é um projeto de exemplo que implementa uma API REST em Python usando o fra
 
 Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados:
 
-- Python 3.11 ou posterior
+- Python 3.10 ou posterior
 - Docker
 - Um ambiente de desenvolvimento ou servidor com acesso à internet para clonar o repositório e executar a aplicação.
 
