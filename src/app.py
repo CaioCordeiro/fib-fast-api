@@ -12,7 +12,7 @@ class FibRequestModel(BaseModel):
 
 @app.get("/api/health")
 def health():
-    return "Estou saudavel"
+    return "Estou saudável"
 
 
 @app.post("/api/fibonacci")
