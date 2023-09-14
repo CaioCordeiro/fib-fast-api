@@ -74,3 +74,19 @@ Agora que a aplicação está em execução, você pode testar as rotas usando f
     ```bash
     curl -X POST -H "Content-Type: application/json" -d '{"elementos": 4}' http://localhost:8000/api/fibonacci
     [ 0, 1, 1, 2]
+
+## Testes
+
+Essa aplicação possui testes unitários, voce pode executar-los para garantir que o codigo funciona como esperado.
+
+1. Entrar no projeto
+
+    ```bash
+    cd fib-fast-api
+    ```
+
+2. Executar os testes
+
+    ```bash
+    python -m unittest discover tests/
+    ```
