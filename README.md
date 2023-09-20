@@ -42,6 +42,10 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados:
 
 A API estará disponível em `http://localhost:8000`.
 
+### Docs
+
+You can check our swagger documentation by entering `http://localhost:8000/docs`
+
 ### Docker
 
 1. Contrua a imagem
