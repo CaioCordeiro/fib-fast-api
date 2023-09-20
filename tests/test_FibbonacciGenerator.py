@@ -1,4 +1,5 @@
 import unittest
+
 from src.FibbonacciGenerator import generate_fibonacci_sequence
 
 
